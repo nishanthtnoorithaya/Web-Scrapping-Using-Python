@@ -1,6 +1,6 @@
 # Web-Scrapping-Using-Python
 
-#Description:
+#Description
  
 1. This is a Webscrapping Script Using Python module. 
 2. I have used Python urllib module to connect to the website and used popular webscrapping module beautiful Soup (bs4) for scrapping Web contents.
